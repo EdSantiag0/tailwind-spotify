@@ -23,7 +23,7 @@ export function Main() {
           className="bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors"
         >
           <Image
-            src="/wasting-light.jpg"
+            src="/album-wasting-light.jpg"
             width={106}
             height={106}
             alt="Capa de álbum"
